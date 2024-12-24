@@ -24,16 +24,10 @@ Run the program with an MP3 file as input:
 ./mp3_tag_reader <filename>
 The output will display the metadata if an ID3v1 tag is found, or notify if the tag is absent.
 
-Example
-Command:
 
-bash
-Copy code
 ./mp3_tag_reader example.mp3
 Output:
 
-yaml
-Copy code
 Title: Example Song
 Artist: Example Artist
 Album: Example Album
